@@ -159,7 +159,7 @@ For this project, my approach was focused on data pipeline standardization and e
 *   **Metric:** Transaction Volume
     *   **Plain-Language Definition:** The total absolute count of individual purchase records logged across the database.
     *   **Why It Matters:** It tracks buyer frequency and baseline order activity, helping to separate high-value single transactions from frequent, lower-value purchasing behavior.
-
+    
 *   **Metric:** Demographic Purchase Power
     *   **Plain-Language Definition:** The total gross spending aggregation grouped specifically by unique customer occupational titles.
     *   **Why It Matters:** It identifies which professional industries generate the highest financial value, allowing marketing teams to optimize their customer acquisition targeting budgets.
