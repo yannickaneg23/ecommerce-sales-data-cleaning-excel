@@ -41,7 +41,7 @@
   
   Outcome: I produced a spotless, audit-ready database connected to an interactive executive dashboard featuring high-level KPI cards and sorted charts that instantly reveal which customer occupations spend the most money on the platform.
 ---
-
+--!>
 ## 2. Objectives
 
 <!--
@@ -50,7 +50,8 @@ Secondary Objective 1: Protect payment data integrity by isolating the ingestion
 Secondary Objective 2: Parse bundled, multi-line address text strings to isolate distinct geographical attributes for structural regional tracking.
 Secondary Objective 3: Quantify and rank overall purchase totals by customer occupation to identify the top three highest-spending professional demographics on the platform.
 
----
+--- 
+--!>
 
 ## 3. Project Scope & Tools
 
@@ -74,7 +75,7 @@ Secondary Objective 3: Quantify and rank overall purchase totals by customer occ
  Visualization: Microsoft Excel Dynamic Pivot Tables, Sorted Horizontal Pivot Charts, and Custom KPI Shapes
  Version Control: GitHub Web Interface
  Documentation: Markdown text files
-
+--!>
 ## 4. Repository Structure
 
 ```
