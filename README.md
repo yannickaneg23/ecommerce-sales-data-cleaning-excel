@@ -6,6 +6,7 @@
 ## ⚙️ Project Type Flags
 > 
 
+
 - [ ] Dashboard / Data Visualization
 - [ ] Data Cleaning / Wrangling
 - [ ] End-to-End (multiple of the above)
