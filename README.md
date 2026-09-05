@@ -41,7 +41,7 @@
   
   Outcome: I produced a spotless, audit-ready database connected to an interactive executive dashboard featuring high-level KPI cards and sorted charts that instantly reveal which customer occupations spend the most money on the platform.
 ---
---!>
+
 ## 2. Objectives
 
 <!--
