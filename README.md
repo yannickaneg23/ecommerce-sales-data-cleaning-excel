@@ -51,7 +51,7 @@ Secondary Objective 2: Parse bundled, multi-line address text strings to isolate
 Secondary Objective 3: Quantify and rank overall purchase totals by customer occupation to identify the top three highest-spending professional demographics on the platform.
 
 --- 
---!>
+
 
 ## 3. Project Scope & Tools
 
