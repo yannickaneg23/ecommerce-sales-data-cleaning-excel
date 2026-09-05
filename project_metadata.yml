@@ -6,67 +6,69 @@
 # ============================================================
 
 project:
-  name: "[Project Title]"
-  slug: "[project-title-lowercase-hyphenated]"   # Used for folder names, URLs
+  name: "E-Commerce Customer Profile & Data Cleansing Project"
+  slug: "ecommerce-sales-data-cleaning-excel"
   version: "1.0.0"
-  status: "completed"                             # Options: in-progress | completed | archived
-  last_updated: "YYYY-MM-DD"
+  status: "completed"
+  last_updated: "2026-08-05"
 
 author:
-  name: "[Your Full Name]"
-  role: "[Your Role or Title]"
-  github: "[github_username]"
-  linkedin: "[linkedin_profile_url]"
-  email: "[optional]"
+  name: "Data Analyst Portfolio Candidate"
+  role: "Data Analyst"
+  github: "yannickaneg23"
+  linkedin: "https://www.linkedin.com/in/aneg-yannick-19692a432/l"
+  email: "yannickaneg23@gmail.com.com"
 
 project_type:
-  primary: "[e.g., exploratory-analysis]"        # See taxonomy below
+  primary: "data-cleaning"
   secondary:
-    - "[e.g., dashboard]"
-    - "[e.g., data-pipeline]"
+    - "dashboard"
+    - "visualization"
+    - "reporting"
 
-# PROJECT TYPE TAXONOMY (pick what applies):
-# exploratory-analysis | sql-analysis | dashboard | data-pipeline
-# predictive-model | data-cleaning | reporting | visualization
-# end-to-end | automation | other
-
-domain: "[e.g., finance / healthcare / marketing / operations / education / other]"
+domain: "marketing / operations"
 
 tools:
   languages:
-    - "[e.g., Python 3.11]"
-    - "[e.g., SQL]"
+    - "Excel Formulas"
   libraries:
-    - "[e.g., pandas 2.0]"
-    - "[e.g., matplotlib 3.7]"
+    - "none"
   platforms:
-    - "[e.g., GitHub]"
-    - "[e.g., Google Colab]"
+    - "GitHub"
+    - "Microsoft Excel"
   visualization:
-    - "[e.g., Power BI]"
-    - "[e.g., Tableau]"
-    - "[e.g., Plotly]"
+    - "Excel Dynamic Pivot Tables"
+    - "Excel Charts"
 
 data:
   sources:
-    - name: "[Source name]"
-      type: "[csv / api / database / web-scrape / manual / public-dataset]"
-      access: "[public / private / simulated / anonymized]"
-  row_count_approx: "[e.g., 50000]"
+    - name: "E-Commerce System Export"
+      type: "csv"
+      access: "anonymized"
+  row_count_approx: "5000"
   date_range:
-    start: "YYYY-MM-DD"
-    end: "YYYY-MM-DD"
+    start: "2023-01-01"
+    end: "2024-06-30"
 
 outputs:
-  - type: "[notebook / dashboard / report / csv / script / slides]"
-    path: "[relative/path/to/output]"
-    description: "[One-line description]"
+  - type: "dashboard"
+    path: "data/processed/Ecommerce_Sales_Cleaned_Project.xlsx"
+    description: "Interactive master Excel file with Power Query logic, formulas, dynamic Pivot Tables, and visual KPI cards."
+  - type: "report"
+    path: "reports/ECommerce_Sales_Cleanat_Project_Portfolio.pdf"
+    description: "Interview-ready PDF case study overview document detailing project lineage."
+  - type: "visual"
+    path: "visuals/dashboard_screenshot.png"
+    description: "High-resolution snapshot image of the complete reporting interface background grids disabled."
 
 dependencies:
-  file: "[requirements.txt / environment.yml / packages.R / none]"
-  notes: "[Any setup instructions or environment caveats]"
+  file: "none"
+  notes: "Requires Microsoft Excel 2016 or newer with Power Query support to open and interact with the primary workbook file."
 
 tags:
-  - "[keyword-1]"
-  - "[keyword-2]"
-  - "[keyword-3]"
+  - "excel-data-cleaning"
+  - "business-intelligence"
+  - "text-parsing"
+  - "kpi-dashboard"
+  - "portfolio-analytics"
+
