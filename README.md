@@ -75,9 +75,10 @@ Secondary Objective 3: Quantify and rank overall purchase totals by customer occ
  Visualization: Microsoft Excel Dynamic Pivot Tables, Sorted Horizontal Pivot Charts, and Custom KPI Shapes
  Version Control: GitHub Web Interface
  Documentation: Markdown text files
---!>
-## 4. Repository Structure
+ ---
 
+## 4. Repository Structure
+<!--
 ```
 [project-root]/
 data/
